@@ -4,3 +4,9 @@ dist/
 .build/
 wrangler.toml
 
+node_modules/
+.env*
+dist/
+.build/
+wrangler.toml
+
